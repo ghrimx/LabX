@@ -2,7 +2,7 @@
 
 # LabX
 
-**LabX** a web-based laboratory management system written in Python 3 and using Django framework. It is a clone project of [StudX](https://github.com/ghrimx/StudX) 
+**LabX** is a web-based laboratory management system written in Python 3 and using Django framework. It is a clone project of [StudX](https://github.com/ghrimx/StudX). 
 The application allows to manage all the information that a lab needs on a daily basis. 
 
 Functionnalities:
