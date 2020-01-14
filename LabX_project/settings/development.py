@@ -30,4 +30,8 @@ DATABASES = {
 
 # ##### APPLICATION CONFIGURATION #########################
 
+CUSTOM_APPS = [
+
+]
+
 INSTALLED_APPS = DEFAULT_APPS

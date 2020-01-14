@@ -9,8 +9,8 @@ from .common import PROJECT_ROOT, MIDDLEWARE
 
 # ##### INTERNATIONALIZATION ##############################
 
-LANGUAGE_CODE = 'de'
-TIME_ZONE = 'Europe/Berlin'
+LANGUAGE_CODE = 'en-us'
+TIME_ZONE = 'Europe/Brussels'
 
 # Internationalization
 USE_I18N = True
@@ -24,7 +24,7 @@ USE_TZ = True
 # This list of languages will be provided
 LANGUAGES = (
     ('en', _('English')),
-    ('de', _('German'))
+    ('fr', _('French'))
 )
 
 # Look for translations in these locations
